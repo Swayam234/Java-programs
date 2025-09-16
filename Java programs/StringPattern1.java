@@ -12,7 +12,6 @@ class StringPattern1
         for(i=0;i<l;i++)
         {
             System.out.println(s.charAt(i));
-        }
-        
+        }  
     }
 }
