@@ -4,7 +4,7 @@ class StringPattern4
     public static void main(String args[])
     {
         int i,j,l,ch;
-        String s = "BLUEJ";
+        String s = "HAPPY";
         Scanner sc = new Scanner(System.in);
         do
         {
