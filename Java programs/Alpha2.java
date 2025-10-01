@@ -19,6 +19,5 @@ class Alpha2       //Character Program2
         asciiCode = (int) newChar; 
         System.out.println("New letter: " + newChar);
         System.out.println("ASCII code: " + asciiCode);
-        
     }
 }
