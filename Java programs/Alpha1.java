@@ -14,7 +14,6 @@ class Alpha1    //Character Program1
         if(Character.isLetter(ch)==true)
            System.out.println("Letter");
         if(Character.isDigit(ch)==true)
-           System.out.println("Digit");
-        
+           System.out.println("Digit");    
     }
 }
